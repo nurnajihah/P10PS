@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Know Your Facts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag1">This is fragment 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag2">This is fragment 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag3">This is fragment 3</string>
+</resources>
